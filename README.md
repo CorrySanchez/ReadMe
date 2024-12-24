@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="46" alt="gmail logo"  />
 </div>
 
